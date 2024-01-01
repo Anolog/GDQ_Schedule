@@ -7,10 +7,11 @@
         {
           "start_time": "11:30 AM",
           "name": "AGDQ 2024 Pre-Show",
-          "category": "Interview Crew",
+          "runner": "Interview Crew",
+          "category": "Pre-Show - GDQ",
           "length": "0:30:00",
           "setup_length": "0:00:00",
-          "host": "Pre-Show — GDQ"
+          "host": ""
         },
         {
           "start_time": "12:00 PM",
