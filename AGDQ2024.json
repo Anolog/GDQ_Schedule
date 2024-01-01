@@ -1,0 +1,140 @@
+{
+  "event_name": "AGDQ 2024 Schedule",
+  "event_dates": [
+    {
+      "date": "Sunday, January 14th",
+      "schedule": [
+        {
+          "start_time": "11:30 AM",
+          "name": "AGDQ 2024 Pre-Show",
+          "category": "Interview Crew",
+          "length": "0:30:00",
+          "setup_length": "0:00:00",
+          "host": "Pre-Show — GDQ"
+        },
+        {
+          "start_time": "12:00 PM",
+          "name": "TUNIC",
+          "runner": "Radicoon",
+          "length": "0:10:00",
+          "category": "Any% Unrestricted — PC",
+          "setup_length": "0:30:00",
+          "host": "AttyJoe"
+        },
+        {
+          "start_time": "12:40 PM",
+          "name": "Super Monkey Ball",
+          "runner": "Helix",
+          "length": "0:18:00",
+          "category": "Master — Wii",
+          "setup_length": "0:24:00",
+          "host": "AttyJoe"
+        },
+        {
+          "start_time": "1:22 PM",
+          "name": "Donkey Kong Country",
+          "runner": "Tonkotsu",
+          "length": "0:28:00",
+          "category": "101% — SNES",
+          "setup_length": "0:50:00",
+          "host": "AttyJoe"
+        },
+        {
+          "start_time": "2:40 PM",
+          "name": "SpongeBob SquarePants: The Cosmic Shake",
+          "runner": "PunchSh0t",
+          "length": "0:10:00",
+          "category": "Any% — PC",
+          "setup_length": "0:50:00",
+          "host": "PippyInATopHat"
+        },
+        {
+          "start_time": "3:40 PM",
+          "name": "Tails Adventure",
+          "runner": "Mindez",
+          "length": "0:23:00",
+          "category": "Any% Glitchless — Game Gear",
+          "setup_length": "0:46:00",
+          "host": "PippyInATopHat"
+        },
+        {
+          "start_time": "4:49 PM",
+          "name": "Donkey Kong 64",
+          "runner": "Connor75",
+          "length": "1:05:00",
+          "category": "No Levels Early — Wii U Virtual Console",
+          "setup_length": "0:18:00",
+          "host": "TheKingsPride"
+        },
+        {
+          "start_time": "7:22 PM",
+          "name": "The Checkpoint",
+          "category": "Tech Crew",
+          "length": "0:02:00",
+          "setup_length": "0:31:00",
+          "host": "TheKingsPride"
+        },
+        {
+          "start_time": "7:55 PM",
+          "name": "F-Zero",
+          "runner": "Zachary Ewing",
+          "length": "0:10:00",
+          "category": "Grand Prix — SNES",
+          "setup_length": "0:50:00",
+          "host": "TheKingsPride"
+        },
+        {
+          "start_time": "8:55 PM",
+          "name": "Ultimate Doom",
+          "runner": "ZELLLOOO",
+          "length": "0:18:00",
+          "category": "UV-Speed — PC",
+          "setup_length": "0:30:00",
+          "host": "Prolix"
+        },
+        {
+          "start_time": "9:43 PM",
+          "name": "Metal Gear Solid 2: Sons of Liberty",
+          "runner": "dlimes13",
+          "length": "1:15:00",
+          "category": "PC, European Extreme — PC",
+          "setup_length": "0:20:00",
+          "host": "Prolix"
+        },
+        {
+          "start_time": "11:18 PM",
+          "name": "Daily Recap - Sunday",
+          "category": "Interview Crew",
+          "length": "0:15:00",
+          "setup_length": "0:00:00",
+          "host": "Recap — Live"
+        },
+        {
+          "start_time": "11:33 PM",
+          "name": "Batman: Arkham City",
+          "runner": "ShikenNuggets",
+          "length": "1:05:00",
+          "category": "Any% — PC",
+          "setup_length": "0:18:00",
+          "host": "musical_daredevil"
+        }
+      ]
+    },
+    {
+      "date": "Monday, January 15th",
+      "schedule": [
+        {
+          "start_time": "11:30 AM",
+          "name": "Example Run",
+          "runner": "Runner Name",
+          "length": "0:30:00",
+          "category": "Category Name",
+          "setup_length": "0:00:00",
+          "host": "Host Name"
+        },
+
+      ]
+    },
+
+  ]
+}
