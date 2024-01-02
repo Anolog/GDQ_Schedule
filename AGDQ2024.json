@@ -125,13 +125,1225 @@
       "date": "Monday, January 15th",
       "schedule": [
         {
-          "start_time": "11:30 AM",
-          "name": "Example Run",
-          "runner": "Runner Name",
+          "start_time": "12:56 AM",
+          "name": "Clock Tower",
+          "runner": "Ecdycis",
+          "length": "0:15:00",
+          "category": "Ending A vs Ending S — SFC",
+          "setup_length": "0:20:00",
+          "host": "musical_daredevil"
+        },
+        {
+          "start_time": "1:31 AM",
+          "name": "TimeShift",
+          "runner": "Shockwve",
+          "length": "0:07:00",
+          "category": "Casual - Single Segment — PC",
+          "setup_length": "1:15:00",
+          "host": "MTGJoeD"
+        },
+        {
+          "start_time": "2:53 AM",
+          "name": "The Typing of the Dead",
+          "runner": "peaches",
+          "length": "0:07:00",
+          "category": "Any% Arcade Settings — PC",
+          "setup_length": "0:30:00",
+          "host": "MTGJoeD"
+        },
+        {
+          "start_time": "3:30 AM",
+          "name": "Ganbare Goemon 2: Kiteretsu Shougun Magginesu",
+          "runner": "Teleo1",
+          "length": "0:07:00",
+          "category": "Any% — SNES",
+          "setup_length": "0:43:00",
+          "host": "Peace Egg"
+        },
+        {
+          "start_time": "4:20 AM",
+          "name": "Hime's Quest",
+          "runner": "skateman222",
+          "length": "0:07:00",
+          "category": "Any% — GC",
+          "setup_length": "0:26:00",
+          "host": "Peace Egg"
+        },
+        {
+          "start_time": "4:53 AM",
+          "name": "Marble Madness II",
+          "runner": "yelsraek, Elipsis",
+          "length": "0:11:00",
+          "category": "Any% Race — Arcade",
+          "setup_length": "0:11:00",
+          "host": "Peace Egg"
+        },
+        {
+          "start_time": "5:15 AM",
+          "name": "LONG LIVE THE AXE",
+          "runner": "Ukobarrywewa",
+          "length": "0:07:00",
+          "category": "100% — PC",
+          "setup_length": "0:28:00",
+          "host": "Peace Egg"
+        },
+        {
+          "start_time": "5:50 AM",
+          "name": "A Bug's Life",
+          "runner": "Zic3",
+          "length": "0:10:00",
+          "category": "Any% — PS",
+          "setup_length": "0:22:00",
+          "host": "Critique Quartz"
+        },
+        {
+          "start_time": "6:22 AM",
+          "name": "Pitfall: The Lost Expedition",
+          "runner": "Blupee",
+          "length": "0:07:00",
+          "category": "any% — GC",
+          "setup_length": "0:25:00",
+          "host": "Critique Quartz"
+        },
+        {
+          "start_time": "6:54 AM",
+          "name": "Worms Reloaded",
+          "runner": "Mablak",
+          "length": "0:07:00",
+          "category": "Campaign (No Level Skips) — PC",
+          "setup_length": "0:52:00",
+          "host": "Critique Quartz"
+        },
+        {
+          "start_time": "7:53 AM",
+          "name": "Cassette Beasts",
+          "runner": "Corvimae",
+          "length": "0:28:00",
+          "category": "Any% Seeded — PC",
+          "setup_length": "0:45:00",
+          "host": "Quacksilver"
+        },
+        {
+          "start_time": "9:06 AM",
+          "name": "LEGO Bionicle",
+          "runner": "Derek_MK",
+          "length": "0:10:00",
+          "category": "Any% — GBA",
+          "setup_length": "0:20:00",
+          "host": "Xenadir"
+        },
+        {
+          "start_time": "9:36 AM",
+          "name": "Manifold Garden",
+          "runner": "Ozmourn",
+          "length": "0:17:00",
+          "category": "Reverse Tree Order — PC",
+          "setup_length": "0:35:00",
+          "host": "Xenadir"
+        },
+        {
+          "start_time": "10:28 AM",
+          "name": "inFAMOUS: Festival of Blood",
+          "runner": "Mickspad",
+          "length": "0:15:00",
+          "category": "any% — PS3",
+          "setup_length": "0:30:00",
+          "host": "Xenadir"
+        },
+        {
+          "start_time": "11:13 AM",
+          "name": "30XX",
+          "runner": "ateatree",
+          "length": "0:12:00",
+          "category": "Escape+ — PC",
+          "setup_length": "0:35:00",
+          "host": "cartridgeblowers"
+        },
+        {
+          "start_time": "12:00 PM",
+          "name": "Mega Man 3",
+          "runner": "KLM1187",
+          "length": "0:24:00",
+          "category": "Any% — NES",
+          "setup_length": "0:38:00",
+          "host": "cartridgeblowers"
+        },
+        {
+          "start_time": "1:02 PM",
+          "name": "Mega Man 8",
+          "runner": "MrCab55",
+          "length": "0:15:00",
+          "category": "Any% — Playstation",
+          "setup_length": "0:55:00",
+          "host": "cartridgeblowers"
+        },
+        {
+          "start_time": "2:12 PM",
+          "name": "Metroid Prime 2: Echoes",
+          "runner": "MrMiguel",
+          "length": "0:15:00",
+          "category": "100% — GC",
+          "setup_length": "2:25:00",
+          "host": "Threach"
+        },
+        {
+          "start_time": "4:52 PM",
+          "name": "Final Fantasy XV: Royal Edition",
+          "runner": "Kyoslilmonster",
+          "length": "0:22:00",
+          "category": "Any% — PC",
+          "setup_length": "1:05:00",
+          "host": "iggyzig"
+        },
+        {
+          "start_time": "6:19 PM",
+          "name": "The Checkpoint",
+          "category": "Tech Crew",
+          "length": "0:04:00",
+          "setup_length": "0:52:00",
+          "host": "iggyzig"
+        },
+        {
+          "start_time": "7:15 PM",
+          "name": "Sonic Adventure 2: Battle",
+          "runner": "Deku_sr",
+          "length": "0:15:00",
+          "category": "Hero Story vs Dark Story: All A-Ranks — PC",
+          "setup_length": "0:40:00",
+          "host": "Char_bunny"
+        },
+        {
+          "start_time": "8:10 PM",
+          "name": "Only Up!",
+          "runner": "Mitchriz",
+          "length": "0:10:00",
+          "category": "Any% All Skips — PC",
+          "setup_length": "0:20:00",
+          "host": "Nichole Goodnight"
+        },
+        {
+          "start_time": "8:40 PM",
+          "name": "BONUS GAME 1- Pokémon Diamond/Pearl",
+          "runner": "Etchy",
           "length": "0:30:00",
-          "category": "Category Name",
+          "category": "Any% — DS",
+          "setup_length": "1:15:00",
+          "host": "Nichole Goodnight"
+        },
+        {
+          "start_time": "10:25 PM",
+          "name": "Daily Recap - Monday",
+          "category": "People",
+          "length": "0:15:00",
           "setup_length": "0:00:00",
-          "host": "Host Name"
+          "host": "Nichole Goodnight"
+        },
+        {
+          "start_time": "10:40 PM",
+          "name": "Pikmin 4",
+          "runner": "Kap",
+          "length": "0:07:00",
+          "category": "Rescue Olimar — Switch",
+          "setup_length": "1:20:00",
+          "host": "Nichole Goodnight"
+        }
+      ]
+    },
+    {
+      "date": "Tuesday, January 16th",
+      "schedule": [
+        {
+          "start_time": "12:07 AM",
+          "name": "StarCraft: Brood War",
+          "runner": "7thAce",
+          "length": "0:12:00",
+          "category": "Any% Zerg Campaign — PC",
+          "setup_length": "1:35:00",
+          "host": "MTGJoeD"
+        },
+        {
+          "start_time": "1:54 AM",
+          "name": "Bayonetta",
+          "runner": "Reclaimer",
+          "length": "0:15:00",
+          "category": "New Game Normal — PC",
+          "setup_length": "1:39:00",
+          "host": "MTGJoeD"
+        },
+        {
+          "start_time": "3:48 AM",
+          "name": "Dead Space (2023)",
+          "runner": "sharkhat87",
+          "length": "0:07:00",
+          "category": "Any% Unrestricted (Story) — PC",
+          "setup_length": "2:00:00",
+          "host": "AshSaidHi"
+        },
+        {
+          "start_time": "5:55 AM",
+          "name": "Contrast",
+          "runner": "NallyQ",
+          "length": "0:11:00",
+          "category": "Any% — PC",
+          "setup_length": "0:18:00",
+          "host": "musical_daredevil"
+        },
+        {
+          "start_time": "6:24 AM",
+          "name": "Backyard Skateboarding",
+          "runner": "peterafro",
+          "length": "0:11:00",
+          "category": "any% OG — PC",
+          "setup_length": "0:15:00",
+          "host": "musical_daredevil"
+        },
+        {
+          "start_time": "6:50 AM",
+          "name": "Orbo's Odyssey",
+          "runner": "BystanderTim",
+          "length": "0:11:00",
+          "category": "All Gears — PC",
+          "setup_length": "0:14:00",
+          "host": "musical_daredevil"
+        },
+        {
+          "start_time": "7:15 AM",
+          "name": "Super Cable Boy",
+          "runner": "Doublevil",
+          "length": "0:07:00",
+          "category": "Any% — PC",
+          "setup_length": "0:34:00",
+          "host": "musical_daredevil"
+        },
+        {
+          "start_time": "7:56 AM",
+          "name": "Bad Dudes",
+          "runner": "burst_error",
+          "length": "0:11:00",
+          "category": "Any% — NES",
+          "setup_length": "0:16:00",
+          "host": "musical_daredevil"
+        },
+        {
+          "start_time": "8:23 AM",
+          "name": "Arkanoid",
+          "runner": "chessjerk",
+          "length": "0:07:00",
+          "category": "any% — NES",
+          "setup_length": "0:30:00",
+          "host": "Jaypeg"
+        },
+        {
+          "start_time": "9:00 AM",
+          "name": "Gimmick!",
+          "runner": "Ryan Ford",
+          "length": "0:12:00",
+          "category": "Any% (Zipless) — Famicom",
+          "setup_length": "0:09:00",
+          "host": "Jaypeg"
+        },
+        {
+          "start_time": "9:21 AM",
+          "name": "Panic Restaurant",
+          "runner": "janglestorm",
+          "length": "0:11:00",
+          "category": "Any% (US Version) — NES",
+          "setup_length": "0:17:00",
+          "host": "Jaypeg"
+        },
+        {
+          "start_time": "9:49 AM",
+          "name": "Tempo",
+          "runner": "Hibnotix",
+          "length": "0:07:00",
+          "category": "Any% — 32X",
+          "setup_length": "0:30:00",
+          "host": "Jaypeg"
+        },
+        {
+          "start_time": "10:26 AM",
+          "name": "Tape to Tape",
+          "runner": "cavecavecave",
+          "length": "0:15:00",
+          "category": "Easy Campaign — PC",
+          "setup_length": "0:30:00",
+          "host": "TrainerAnade"
+        },
+        {
+          "start_time": "11:11 AM",
+          "name": "The Legend of Zelda",
+          "runner": "Cantaloupeme",
+          "length": "0:12:00",
+          "category": "any% Glitchless — NES",
+          "setup_length": "0:35:00",
+          "host": "TrainerAnade"
+        },
+        {
+          "start_time": "11:58 AM",
+          "name": "Here Comes Niko!",
+          "runner": "NaomiiiPlays",
+          "length": "0:15:00",
+          "category": "Any% — PC",
+          "setup_length": "0:25:00",
+          "host": "Lanaruse"
+        },
+        {
+          "start_time": "12:38 PM",
+          "name": "Dinobreak",
+          "runner": "Gnydsmelt",
+          "length": "0:07:00",
+          "category": "Any% NG+ — PC",
+          "setup_length": "0:20:00",
+          "host": "Lanaruse"
+        },
+        {
+          "start_time": "1:05 PM",
+          "name": "Warhammer 40,000: Boltgun",
+          "runner": "Kaos_Wulf",
+          "length": "0:10:00",
+          "category": "Restricted, Chapter 1 — PC",
+          "setup_length": "0:25:00",
+          "host": "Lanaruse"
+        },
+        {
+          "start_time": "1:40 PM",
+          "name": "Gyromite",
+          "runner": "JSR_",
+          "length": "0:20:00",
+          "category": "Game B - Dog Assistance — NES",
+          "setup_length": "0:30:00",
+          "host": "Lanaruse"
+        },
+        {
+          "start_time": "2:30 PM",
+          "name": "Mario Kart Wii",
+          "runner": "LoganUS",
+          "length": "0:10:00",
+          "category": "32 Tracks Skips — Wii",
+          "setup_length": "1:14:00",
+          "host": "Argick"
+        },
+        {
+          "start_time": "3:54 PM",
+          "name": "Starfield",
+          "runner": "Harcacola",
+          "length": "0:18:00",
+          "category": "Any% — PC",
+          "setup_length": "0:45:00",
+          "host": "Argick"
+        },
+        {
+          "start_time": "4:57 PM",
+          "name": "Jak & Daxter: The Precursor Legacy",
+          "runner": "theflu124",
+          "length": "0:15:00",
+          "category": "100% — PS2",
+          "setup_length": "1:39:00",
+          "host": "ThomasPatrickWX"
+        },
+        {
+          "start_time": "6:51 PM",
+          "name": "The Checkpoint",
+          "category": "Tech Crew",
+          "length": "0:02:00",
+          "setup_length": "0:57:00",
+          "host": "ThomasPatrickWX"
+        },
+        {
+          "start_time": "7:50 PM",
+          "name": "Octopath Traveler II",
+          "runner": "Sanjan",
+          "length": "0:25:00",
+          "category": "Galdera — PC",
+          "setup_length": "1:30:00",
+          "host": "frozenflygone"
+        },
+        {
+          "start_time": "9:45 PM",
+          "name": "Hades",
+          "runner": "arcalena, trash_lapras",
+          "length": "0:07:00",
+          "category": "3 weapons race (Modded) — PC",
+          "setup_length": "0:50:00",
+          "host": "Quacksilver"
+        },
+        {
+          "start_time": "10:42 PM",
+          "name": "Bloodstained: Ritual of the Night",
+          "runner": "Bobbeigh",
+          "length": "0:13:00",
+          "category": "Zangetsu (All Bosses, NMG) — PC",
+          "setup_length": "0:32:00",
+          "host": "Nichole Goodnight"
+        },
+        {
+          "start_time": "11:27 PM",
+          "name": "Daily Recap - Tuesday",
+          "category": "People",
+          "length": "0:15:00",
+          "setup_length": "0:00:00",
+          "host": "Nichole Goodnight"
+        },
+        {
+          "start_time": "11:42 PM",
+          "name": "Granny",
+          "runner": "Maxylobes",
+          "length": "0:15:00",
+          "category": "The Nanthology — PC",
+          "setup_length": "1:00:00",
+          "host": "Nichole Goodnight"
+        }
+      ]
+    },
+    {
+      "date": "Wednesday, January 17th",
+      "schedule": [
+        {
+          "start_time": "12:57 AM",
+          "name": "Resident Evil 2 Remake",
+          "runner": "CarcinogenSDA",
+          "length": "0:07:00",
+          "category": "Leon vs Claire 1st Hardcore No Damage Attempt — PC",
+          "setup_length": "1:30:00",
+          "host": "AshSaidHi"
+        },
+        {
+          "start_time": "2:34 AM",
+          "name": "Diablo (1996)",
+          "runner": "Funkmastermp",
+          "length": "0:15:00",
+          "category": "Lvl 1% Sorcerer — PC",
+          "setup_length": "0:32:00",
+          "host": "AshSaidHi"
+        },
+        {
+          "start_time": "3:21 AM",
+          "name": "Paper Mario: The Thousand-Year Door",
+          "runner": "Yoshi_Zilla",
+          "length": "0:14:00",
+          "category": "Any% — Nintendo Wii",
+          "setup_length": "2:30:00",
+          "host": "Kungfufruitcup"
+        },
+        {
+          "start_time": "6:05 AM",
+          "name": "Thief: Gold",
+          "runner": "Psych0sis",
+          "length": "0:07:00",
+          "category": "Any% Normal — PC",
+          "setup_length": "0:38:00",
+          "host": "Threach"
+        },
+        {
+          "start_time": "6:50 AM",
+          "name": "Ducktales: Remastered",
+          "runner": "Roach788",
+          "length": "0:10:00",
+          "category": "Any% Easy — PC",
+          "setup_length": "0:37:00",
+          "host": "Threach"
+        },
+        {
+          "start_time": "7:37 AM",
+          "name": "Disney Gargoyles Remastered",
+          "runner": "Cypherin",
+          "length": "0:07:00",
+          "category": "Enhanced - Easy Any% — PC",
+          "setup_length": "0:17:00",
+          "host": "Threach"
+        },
+        {
+          "start_time": "8:01 AM",
+          "name": "Teenage Mutant Ninja Turtles (Arcade)",
+          "runner": "LRock617",
+          "length": "0:20:00",
+          "category": "Any% 1CC — PC",
+          "setup_length": "0:20:00",
+          "host": "TrainerAnade"
+        },
+        {
+          "start_time": "8:41 AM",
+          "name": "Goof Troop",
+          "runner": "Bbforky, swordsmankirby",
+          "length": "0:10:00",
+          "category": "Co-op (U) — SNES",
+          "setup_length": "0:23:00",
+          "host": "TrainerAnade"
+        },
+        {
+          "start_time": "9:14 AM",
+          "name": "Bluey: The Videogame",
+          "runner": "Phillie",
+          "length": "0:07:00",
+          "category": "Any% — PC",
+          "setup_length": "0:38:00",
+          "host": "TrainerAnade"
+        },
+        {
+          "start_time": "9:59 AM",
+          "name": "Super Mario Bros. 2 USA",
+          "runner": "TheHaxor",
+          "length": "0:30:00",
+          "category": "Any% — NES",
+          "setup_length": "0:12:00",
+          "host": "TrainerAnade"
+        },
+        {
+          "start_time": "10:41 AM",
+          "name": "Monkey Island 1 vs Monkey Island 2",
+          "runner": "thewoofs",
+          "length": "0:07:00",
+          "category": "Any% — PC",
+          "setup_length": "0:35:00",
+          "host": "TrainerAnade"
+        },
+        {
+          "start_time": "11:23 AM",
+          "name": "Satisfactory",
+          "runner": "Epiphane",
+          "length": "0:23:00",
+          "category": "2Package% — PC",
+          "setup_length": "0:14:00",
+          "host": "ThomasPatrickWX"
+        },
+        {
+          "start_time": "12:00 PM",
+          "name": "Metroid Dread",
+          "runner": "JustNZane, CScottyW",
+          "length": "0:20:00",
+          "category": "100% NMG — Switch",
+          "setup_length": "1:55:00",
+          "host": "ThomasPatrickWX"
+        },
+        {
+          "start_time": "2:15 PM",
+          "name": "Pokemon Crystal",
+          "runner": "Shenanagans, 360Chrism",
+          "length": "0:15:00",
+          "category": "Full Item Randomizer (Co-op) — GBC",
+          "setup_length": "1:50:00",
+          "host": "frozenflygone"
+        },
+        {
+          "start_time": "4:20 PM",
+          "name": "Mario & Luigi: Superstar Saga",
+          "runner": "Tonkotsu",
+          "length": "0:14:00",
+          "category": "Any% — Switch",
+          "setup_length": "1:30:00",
+          "host": "frozenflygone"
+        },
+        {
+          "start_time": "6:04 PM",
+          "name": "The Checkpoint",
+          "category": "Tech Crew",
+          "length": "0:02:00",
+          "setup_length": "0:54:00",
+          "host": "ateatree"
+        },
+        {
+          "start_time": "7:00 PM",
+          "name": "The Legend of Zelda: Ocarina of Time",
+          "runner": "SpitleSan",
+          "length": "0:15:00",
+          "category": "MST — Wii",
+          "setup_length": "2:15:00",
+          "host": "ateatree"
+        },
+        {
+          "start_time": "9:30 PM",
+          "name": "BONUS GAME 2- Super Mario 64",
+          "runner": "CZR",
+          "length": "0:07:00",
+          "category": "16 Star Drum% — N64",
+          "setup_length": "0:24:00",
+          "host": "ateatree"
+        },
+        {
+          "start_time": "10:01 PM",
+          "name": "TASBot presents Super Metroid",
+          "runner": "dwangoAC, TASBot",
+          "length": "0:15:00",
+          "category": "any% by Sniq — SNES",
+          "setup_length": "0:35:00",
+          "host": "iggyzig"
+        },
+        {
+          "start_time": "10:51 PM",
+          "name": "Daily Recap - Wednesday",
+          "category": "People",
+          "length": "0:15:00",
+          "setup_length": "0:00:00",
+          "host": "iggyzig"
+        },
+        {
+          "start_time": "11:06 PM",
+          "name": "DOOM (2016)",
+          "runner": "Raitro_",
+          "length": "0:15:00",
+          "category": "100% Nightmare — PC",
+          "setup_length": "2:30:00",
+          "host": "j0kerr"
+        }
+      ]
+    },
+    {
+      "date": "Thursday, January 18th",
+      "schedule": [
+        {
+          "start_time": "1:51 AM",
+          "name": "Beetlejuice",
+          "runner": "Gargon100",
+          "length": "0:11:00",
+          "category": "Any% — NES",
+          "setup_length": "0:13:00",
+          "host": "Shado_Temple"
+        },
+        {
+          "start_time": "2:15 AM",
+          "name": "Sneak King",
+          "runner": "Konception",
+          "length": "0:07:00",
+          "category": "50% — Xbox",
+          "setup_length": "0:23:00",
+          "host": "Shado_Temple"
+        },
+        {
+          "start_time": "2:45 AM",
+          "name": "Ninja Gaiden",
+          "runner": "infinitemystery",
+          "length": "0:11:00",
+          "category": "any% — Game Gear",
+          "setup_length": "0:12:00",
+          "host": "Shado_Temple"
+        },
+        {
+          "start_time": "3:08 AM",
+          "name": "The Last Ninja",
+          "runner": "janglestorm",
+          "length": "0:11:00",
+          "category": "Beat the Game — NES",
+          "setup_length": "0:11:00",
+          "host": "Shado_Temple"
+        },
+        {
+          "start_time": "3:30 AM",
+          "name": "Brilliant Bob",
+          "runner": "GaryJGames",
+          "length": "0:10:00",
+          "category": "Any% — PC",
+          "setup_length": "0:20:00",
+          "host": "Shado_Temple"
+        },
+        {
+          "start_time": "4:00 AM",
+          "name": "Fort Boyard: The Challenge",
+          "runner": "tbcr",
+          "length": "0:07:00",
+          "category": "Full Show — MS-DOS",
+          "setup_length": "0:30:00",
+          "host": "Shado_Temple"
+        },
+        {
+          "start_time": "4:37 AM",
+          "name": "Skull Island: Rise of Kong",
+          "runner": "SweedOla",
+          "length": "0:07:00",
+          "category": "Any% — PC",
+          "setup_length": "0:15:00",
+          "host": "Peace Egg"
+        },
+        {
+          "start_time": "4:59 AM",
+          "name": "Tintin In Tibet",
+          "runner": "Neetsel",
+          "length": "0:07:00",
+          "category": "Any% Normal — SNES",
+          "setup_length": "0:30:00",
+          "host": "Peace Egg"
+        },
+        {
+          "start_time": "5:36 AM",
+          "name": "Zadette",
+          "runner": "Neetsel",
+          "length": "0:11:00",
+          "category": "Better Gamer% — PC",
+          "setup_length": "0:18:00",
+          "host": "Peace Egg"
+        },
+        {
+          "start_time": "6:05 AM",
+          "name": "Virtual Hydlide",
+          "runner": "Mechalink",
+          "length": "0:15:00",
+          "category": "Any% Fixed Seed — Saturn",
+          "setup_length": "0:45:00",
+          "host": "Peace Egg"
+        },
+        {
+          "start_time": "7:05 AM",
+          "name": "Pseudoregalia",
+          "runner": "Jaxler",
+          "length": "0:12:00",
+          "category": "Any% — PC",
+          "setup_length": "0:20:00",
+          "host": "TheKingsPride"
+        },
+        {
+          "start_time": "7:37 AM",
+          "name": "Skator Gator 3D",
+          "runner": "Ozmourn, allison8bit",
+          "length": "0:11:00",
+          "category": "Any% — PC",
+          "setup_length": "0:15:00",
+          "host": "TheKingsPride"
+        },
+        {
+          "start_time": "8:03 AM",
+          "name": "Shovel Knight: Treasure Trove",
+          "runner": "MooMooAkai",
+          "length": "0:22:00",
+          "category": "Specter of Torment vs Plague of Shadows 100% — PC",
+          "setup_length": "1:10:00",
+          "host": "TheKingsPride"
+        },
+        {
+          "start_time": "9:35 AM",
+          "name": "COCOON",
+          "runner": "Sunnymuffin",
+          "length": "0:12:00",
+          "category": "any% — PC",
+          "setup_length": "1:35:00",
+          "host": "THEKyleThomas"
+        },
+        {
+          "start_time": "11:22 AM",
+          "name": "Kirby & The Amazing Mirror",
+          "runner": "Kobazco, Mr_Shasta, swordsmankirby",
+          "length": "0:12:00",
+          "category": "3 Player Co-op Any% — GBA",
+          "setup_length": "0:25:00",
+          "host": "Quacksilver"
+        },
+        {
+          "start_time": "11:59 AM",
+          "name": "Castlevania III: Dracula's Curse",
+          "runner": "JSR_",
+          "length": "0:21:00",
+          "category": "Any% Famicom / Sypha — NES",
+          "setup_length": "0:40:00",
+          "host": "Quacksilver"
+        },
+        {
+          "start_time": "1:00 PM",
+          "name": "Celeste Strawberry Jam Collab",
+          "runner": "talia",
+          "length": "0:20:00",
+          "category": "Beginner Lobby — PC",
+          "setup_length": "1:00:00",
+          "host": "Quacksilver"
+        },
+        {
+          "start_time": "2:20 PM",
+          "name": "Super Mario Sunshine",
+          "runner": "sblectric",
+          "length": "0:15:00",
+          "category": "120 Shines — GC",
+          "setup_length": "3:05:00",
+          "host": "PippyInATopHat"
+        },
+        {
+          "start_time": "5:40 PM",
+          "name": "The Checkpoint",
+          "category": "Tech Crew",
+          "length": "0:02:00",
+          "setup_length": "0:58:00",
+          "host": "Mr. Game and Shout"
+        },
+        {
+          "start_time": "6:40 PM",
+          "name": "Armored Core VI: Fires of Rubicon",
+          "runner": "Raine_BT",
+          "length": "0:07:00",
+          "category": "NG+ Any% True Ending — PC",
+          "setup_length": "1:50:00",
+          "host": "Mr. Game and Shout"
+        },
+        {
+          "start_time": "8:37 PM",
+          "name": "Super Mario Maker 2",
+          "runner": "CarlSagan42",
+          "length": "0:15:00",
+          "category": "Glitch Showcase — Switch",
+          "setup_length": "0:30:00",
+          "host": "Brutal_Melo"
+        },
+        {
+          "start_time": "9:22 PM",
+          "name": "Halo: Combat Evolved",
+          "runner": "Helpless, NervyDestroyer",
+          "length": "0:12:00",
+          "category": "Coop Easy — PC",
+          "setup_length": "1:15:00",
+          "host": "Brutal_Melo"
+        },
+        {
+          "start_time": "10:49 PM",
+          "name": "Daily Recap - Thursday",
+          "category": "People",
+          "length": "0:15:00",
+          "setup_length": "0:00:00",
+          "host": "Bobby Blackwolf"
+        },
+        {
+          "start_time": "11:04 PM",
+          "name": "Bomb Rush Cyberfunk",
+          "runner": "Storied",
+          "length": "0:20:00",
+          "category": "Any% — PC",
+          "setup_length": "1:10:00",
+          "host": "Bobby Blackwolf"
+        }
+      ]
+    },
+    {
+      "date": "Friday, January 19th",
+      "schedule": [
+        {
+          "start_time": "12:34 AM",
+          "name": "The Last of Us: Remastered",
+          "runner": "Yoranto",
+          "length": "0:15:00",
+          "category": "any% — PS5",
+          "setup_length": "2:35:00",
+          "host": "Critique Quartz"
+        },
+        {
+          "start_time": "3:24 AM",
+          "name": "Sprawl",
+          "runner": "bloodthunder",
+          "length": "0:07:00",
+          "category": "Any% — PC",
+          "setup_length": "0:35:00",
+          "host": "Shado_Temple"
+        },
+        {
+          "start_time": "4:06 AM",
+          "name": "Tom Clancy's Splinter Cell: Chaos Theory",
+          "runner": "Distro",
+          "length": "0:07:00",
+          "category": "any% — PC",
+          "setup_length": "0:50:00",
+          "host": "Shado_Temple"
+        },
+        {
+          "start_time": "5:03 AM",
+          "name": "Viewfinder",
+          "runner": "Zoochable",
+          "length": "0:12:00",
+          "category": "Any% — PC",
+          "setup_length": "0:30:00",
+          "host": "Shado_Temple"
+        },
+        {
+          "start_time": "5:45 AM",
+          "name": "Gravity Rush Remastered",
+          "runner": "Raine_BT",
+          "length": "0:07:00",
+          "category": "Any% — PS4",
+          "setup_length": "1:40:00",
+          "host": "j0kerr"
+        },
+        {
+          "start_time": "7:32 AM",
+          "name": "Spark the Electric Jester 3",
+          "runner": "shovelclaws",
+          "length": "0:25:00",
+          "category": "Any% — PC",
+          "setup_length": "1:15:00",
+          "host": "j0kerr"
+        },
+        {
+          "start_time": "9:12 AM",
+          "name": "Undertale",
+          "runner": "Shayy, mrlink2k",
+          "length": "0:07:00",
+          "category": "True Pacifist Glitchless Race — PC",
+          "setup_length": "1:50:00",
+          "host": "ateatree"
+        },
+        {
+          "start_time": "11:09 AM",
+          "name": "Luminescent",
+          "runner": "GlitchCat7",
+          "length": "0:25:00",
+          "category": "any% — SNES",
+          "setup_length": "0:50:00",
+          "host": "CovertMuffin"
+        },
+        {
+          "start_time": "12:24 PM",
+          "name": "Dark Souls",
+          "runner": "Regole",
+          "length": "0:15:00",
+          "category": "Any% No Wrong Warp — PC",
+          "setup_length": "0:55:00",
+          "host": "CovertMuffin"
+        },
+        {
+          "start_time": "1:34 PM",
+          "name": "Borderlands 2",
+          "runner": "UnjustAction, Deceptix_",
+          "length": "0:18:00",
+          "category": "2 Player Co-op Any% — PC",
+          "setup_length": "1:25:00",
+          "host": "CovertMuffin"
+        },
+        {
+          "start_time": "3:17 PM",
+          "name": "Risk of Rain Returns",
+          "runner": "scaz",
+          "length": "0:07:00",
+          "category": "any% — PC",
+          "setup_length": "0:20:00",
+          "host": "Mr. Game and Shout"
+        },
+        {
+          "start_time": "3:44 PM",
+          "name": "The Checkpoint",
+          "category": "Tech Crew",
+          "length": "0:07:00",
+          "setup_length": "0:59:00",
+          "host": "Mr. Game and Shout"
+        },
+        {
+          "start_time": "4:50 PM",
+          "name": "Super Mario Bros. Wonder",
+          "runner": "JankPickle",
+          "length": "0:15:00",
+          "category": "Any% — Switch",
+          "setup_length": "1:45:00",
+          "host": "Mr. Game and Shout"
+        },
+        {
+          "start_time": "6:50 PM",
+          "name": "Resident Evil 4 (2023)",
+          "runner": "spicee",
+          "length": "0:15:00",
+          "category": "New Game Professional Any% — PC",
+          "setup_length": "2:00:00",
+          "host": "iggyzig"
+        },
+        {
+          "start_time": "9:05 PM",
+          "name": "BONUS GAME 3- Resident Evil 4 (2023) Separate Ways",
+          "runner": "CaptainEzekiel",
+          "length": "0:24:00",
+          "category": "New Game Professional — PC",
+          "setup_length": "1:00:00",
+          "host": "iggyzig"
+        },
+        {
+          "start_time": "10:29 PM",
+          "name": "Daily Recap - Friday",
+          "category": "People",
+          "length": "0:15:00",
+          "host": "iggyzig"
+        },
+        {
+          "start_time": "10:44 PM",
+          "name": "The Legend of Zelda: Majora's Mask",
+          "runner": "Marco8641, morpheus080, popesquidward, dopezzera",
+          "length": "0:07:00",
+          "category": "100% NMG Relay — Wii",
+          "setup_length": "4:55:00",
+          "host": "Brutal_Melo, cartridgeblowers"
+        }
+      ]
+    },
+    {
+      "date": "Saturday, January 20th",
+      "schedule": [
+        {
+          "start_time": "3:46 AM",
+          "name": "Steelrising",
+          "runner": "NicowithaC",
+          "length": "0:07:00",
+          "category": "Any% Unrestricted — PC",
+          "setup_length": "0:50:00",
+          "host": "AttyJoe"
+        },
+        {
+          "start_time": "4:43 AM",
+          "name": "Mega Serval",
+          "runner": "Mikan",
+          "length": "0:07:00",
+          "category": "any% — PC",
+          "setup_length": "0:28:00",
+          "host": "AttyJoe"
+        },
+        {
+          "start_time": "5:18 AM",
+          "name": "Astalon Tears of the Earth",
+          "runner": "Flagalstan",
+          "length": "0:10:00",
+          "category": "Black Knight mode — PC",
+          "setup_length": "0:20:00",
+          "host": "AttyJoe"
+        },
+        {
+          "start_time": "5:48 AM",
+          "name": "Star Fox 64",
+          "runner": "adamX0315",
+          "length": "0:07:00",
+          "category": "2k% — Nintendo 64",
+          "setup_length": "0:40:00",
+          "host": "AttyJoe"
+        },
+        {
+          "start_time": "6:35 AM",
+          "name": "Magical Tetris Challenge",
+          "runner": "FFR Pro 21",
+          "length": "0:11:00",
+          "category": "Magical Tetris (Normal) — N64",
+          "setup_length": "0:15:00",
+          "host": "AttyJoe"
+        },
+        {
+          "start_time": "7:01 AM",
+          "name": "Go! Go! Hamster Chef!",
+          "runner": "Char_bunny",
+          "length": "0:15:00",
+          "category": "Inbounds — PC",
+          "setup_length": "0:18:00",
+          "host": "Jaypeg"
+        },
+        {
+          "start_time": "7:34 AM",
+          "name": "Ghostwire: Tokyo",
+          "runner": "nyiddle",
+          "length": "0:07:00",
+          "category": "Any% Standard — PC",
+          "setup_length": "1:15:00",
+          "host": "CovertMuffin"
+        },
+        {
+          "start_time": "8:56 AM",
+          "name": "Sonic Origins Plus",
+          "runner": "itsflyingfox, JoeyBaby69, Sonikkustar, SuperSonic",
+          "length": "0:12:00",
+          "category": "Anniversary Mode Relay — PC",
+          "setup_length": "2:30:00",
+          "host": "Jaypeg"
+        },
+        {
+          "start_time": "11:38 AM",
+          "name": "Fire Emblem Awakening",
+          "runner": "Kirbymastah",
+          "length": "0:18:00",
+          "category": "Normal Mode — New Nintendo 3DS",
+          "setup_length": "0:50:00",
+          "host": "Bobby Blackwolf"
+        },
+        {
+          "start_time": "12:46 PM",
+          "name": "Mario Kart 64",
+          "runner": "kazn",
+          "length": "0:15:00",
+          "category": "All Cups(Skips) — Nintendo 64",
+          "setup_length": "0:27:00",
+          "host": "Bobby Blackwolf"
+        },
+        {
+          "start_time": "1:28 PM",
+          "name": "Super Mario Bros.: The Lost Levels",
+          "runner": "Kosmic, GTAce",
+          "length": "0:33:00",
+          "category": "Warpless 8-4 — Famicom Disk System",
+          "setup_length": "0:25:00",
+          "host": "Xenadir"
+        },
+        {
+          "start_time": "2:26 PM",
+          "name": "Elden Ring vs Sekiro",
+          "runner": "Mitchriz",
+          "length": "0:15:00",
+          "category": "Any% Unrestricted vs Any% — PC",
+          "setup_length": "0:20:00",
+          "host": "Xenadir"
+        },
+        {
+          "start_time": "3:01 PM",
+          "name": "Lies of P",
+          "runner": "blanxz",
+          "length": "0:18:00",
+          "category": "Any% — PC",
+          "setup_length": "1:00:00",
+          "host": "Xenadir"
+        },
+        {
+          "start_time": "4:19 PM",
+          "name": "The Checkpoint",
+          "category": "Tech Crew",
+          "length": "0:02:00",
+          "setup_length": "0:59:00",
+          "host": "Xenadir"
+        },
+        {
+          "start_time": "5:20 PM",
+          "name": "Lost Judgment",
+          "runner": "Froob",
+          "length": "0:15:00",
+          "category": "Kaito Files Any% — PC",
+          "setup_length": "1:00:00",
+          "host": "Bobby Blackwolf"
+        },
+        {
+          "start_time": "6:35 PM",
+          "name": "The Legend of Zelda: Tears of the Kingdom",
+          "runner": "gymnast86",
+          "length": "0:18:00",
+          "category": "Any% — Nintendo Switch",
+          "setup_length": "1:00:00",
+          "host": "Kungfufruitcup"
+        },
+        {
+          "start_time": "7:53 PM",
+          "name": "BONUS GAME 4- Baldur's Gate 3",
+          "runner": "maeeeeee",
+          "length": "0:10:00",
+          "category": "All Acts — PC",
+          "setup_length": "0:35:00",
+          "host": "Kungfufruitcup"
+        },
+        {
+          "start_time": "8:38 PM",
+          "name": "Event Recap",
+          "category": "People",
+          "length": "0:10:00",
+          "setup_length": "0:20:00",
+          "host": "CovertMuffin"
+        },
+        {
+          "start_time": "9:08 PM",
+          "name": "Final Fantasy V Pixel Remaster",
+          "runner": "Zic3",
+          "length": "0:21:00",
+          "category": "Any% Cutscene Remover — PC",
+          "setup_length": "2:35:00",
+          "host": "Prolix"
+        }
+      ]
+    },
+    {
+      "date": "Sunday, January 21st",
+      "schedule": [
+        {
+          "start_time": "12:04 AM",
+          "name": "Finale!",
+          "category": "Tech Crew",
+          "length": "0:20:00",
+          "setup_length": "The End% — Live"
         }
       ]
     }
